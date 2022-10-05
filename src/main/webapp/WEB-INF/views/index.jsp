@@ -97,6 +97,6 @@
 	<a href="${pageContext.request.contextPath}/download1">다운로드</a>
 	<img src="upload/Penguins.png"/>
 	<!-- 외부 파일에 대한 참조를 하고싶다면 -->
-	<h1>깃 허브에 반영할 업데이트 소스ㄱㄱㄱㄱㄱㄱㄱㄱㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴ</h1>
+	<h1>깃 허브에 반영할 업데이트 소스ㄱㄱㄱㄱㄱㄱㄱㄱㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㅁㄴㅇㄴ</h1>
 </body>
 </html>
